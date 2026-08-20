@@ -19,3 +19,5 @@ node_modules/
 
 # Ignorar todos los archivos .txt dentro de "doc/", en cualquier subdirectorio
 doc/**/*.txt
+
+bibliografia.txt
